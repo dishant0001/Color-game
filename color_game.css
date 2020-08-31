@@ -1,0 +1,55 @@
+h2 {
+    color: white;
+    font-weight: 400;
+}
+
+h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 3.7rem;
+}
+
+.square {
+    width: 30%;
+    padding-top: 30%;
+    margin: 1.66%;
+    float: left;
+    border-radius: 15%;
+}
+
+#color {
+    margin: 20px auto;
+	max-width: 600px;
+}
+
+.selected {
+    color: white;
+	background: steelblue;
+}
+
+#head {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.pad {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: #232323;
+}
+
+.nav1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.mode, #new {
+    color: rgb(15,100,255);
+    font-weight: 700;
+}
